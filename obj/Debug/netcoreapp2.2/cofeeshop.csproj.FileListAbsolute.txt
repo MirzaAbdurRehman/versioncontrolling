@@ -1,0 +1,11 @@
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\bin\Debug\netcoreapp2.2\cofeeshop.deps.json
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\bin\Debug\netcoreapp2.2\cofeeshop.runtimeconfig.json
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\bin\Debug\netcoreapp2.2\cofeeshop.runtimeconfig.dev.json
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\bin\Debug\netcoreapp2.2\cofeeshop.dll
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\bin\Debug\netcoreapp2.2\cofeeshop.pdb
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\obj\Debug\netcoreapp2.2\cofeeshop.csprojAssemblyReference.cache
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\obj\Debug\netcoreapp2.2\cofeeshop.csproj.CoreCompileInputs.cache
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\obj\Debug\netcoreapp2.2\cofeeshop.AssemblyInfoInputs.cache
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\obj\Debug\netcoreapp2.2\cofeeshop.AssemblyInfo.cs
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\obj\Debug\netcoreapp2.2\cofeeshop.dll
+C:\Users\lab008\source\repos\cofeeshop\cofeeshop\obj\Debug\netcoreapp2.2\cofeeshop.pdb
